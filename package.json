@@ -9,17 +9,20 @@
     "masonry"
   ],
   "main": "index.js",
-  "author": {
+  "authors": [{
     "name": "Lucas Lim",
     "email": "hello@codeopolis.com",
     "url": "http://www.codeopolis.com"
-  },
+  }, {
+    "name": "Nebulab",
+    "url": "https://nebulab.io"
+  }],
   "license": "MIT",
-  "repository": "https://github.com/lucaslim/angular-masonry.git",
+  "repository": "https://github.com/nebulab-io/angular-masonry.git",
   "bugs": {
     "url": "https://github.com/lucaslim/angular-masonry/issues"
   },
-  "homepage": "https://github.com/lucaslim/angular-masonry/",
+  "homepage": "https://github.com/nebulab-io/angular-masonry/",
   "dependencies": {
     "angular": "1.4.8"
   },
